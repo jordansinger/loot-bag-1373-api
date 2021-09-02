@@ -1,0 +1,20 @@
+{
+  "name": "1373",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": "12.x"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "graphql-request": "1.8.2",
+    "node-fetch": "^2.6.0"
+  }
+}
