@@ -6,7 +6,7 @@ app.get("/", async (req, res) => {
     id: 1373,
     weapon: 'Scimitar',
     chestArmor: 'Silk Robe',
-    hearArmor: 'Hood of Reflection',
+    headArmor: 'Hood of Reflection',
     waistArmor: 'Sash',
     footArmor: 'Holy Greaves',
     handArmor: '"Victory Moon" Gauntlets of Vitriol +1',
